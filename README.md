@@ -1,2 +1,1 @@
-# forgis-datacenter
-datacenter
+# GeoToolsEdu
